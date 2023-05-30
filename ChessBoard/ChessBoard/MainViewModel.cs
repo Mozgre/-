@@ -51,10 +51,6 @@ namespace ChessBoard
             {
                 cell.Active = Board.Any(x => x.Active);
             }
-            if (cell.State is State.WhitePawn)
-            {
-
-            }
             //Перемещение фигуры
             else if (activeCell != null)
             {
