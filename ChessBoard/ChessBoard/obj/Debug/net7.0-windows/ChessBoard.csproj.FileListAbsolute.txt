@@ -50,3 +50,29 @@ C:\Users\gaz53\OneDrive\Рабочий стол\Программирование
 C:\Users\gaz53\OneDrive\Рабочий стол\Программирование\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.pdb
 C:\Users\gaz53\OneDrive\Рабочий стол\Программирование\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.genruntimeconfig.cache
 C:\Users\gaz53\OneDrive\Рабочий стол\Программирование\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ref\ChessBoard.dll
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\bin\Debug\net7.0-windows\ChessBoard.exe
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\bin\Debug\net7.0-windows\ChessBoard.deps.json
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\bin\Debug\net7.0-windows\ChessBoard.runtimeconfig.json
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\bin\Debug\net7.0-windows\ChessBoard.dll
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\bin\Debug\net7.0-windows\ChessBoard.pdb
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\Controls\ChessPiece.g.cs
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard_MarkupCompile.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard_MarkupCompile.lref
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\Controls\ChessPiece.baml
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.g.resources
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.Properties.Resources.resources
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.csproj.GenerateResource.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.AssemblyInfo.cs
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.dll
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\refint\ChessBoard.dll
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.pdb
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ChessBoard.genruntimeconfig.cache
+C:\Users\gaz53\OneDrive\Рабочий стол\Новая папка\-\ChessBoard\ChessBoard\obj\Debug\net7.0-windows\ref\ChessBoard.dll

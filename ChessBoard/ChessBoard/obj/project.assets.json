@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Программирование\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
+      "projectUniqueName": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Новая папка\\-\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
       "projectName": "ChessBoard",
-      "projectPath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Программирование\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
+      "projectPath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Новая папка\\-\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
       "packagesPath": "C:\\Users\\gaz53\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Программирование\\ChessBoard\\ChessBoard\\obj\\",
+      "outputPath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Новая папка\\-\\ChessBoard\\ChessBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaz53\\AppData\\Roaming\\NuGet\\NuGet.Config",
