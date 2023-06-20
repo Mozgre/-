@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BOwgoiDFdq61Li5nxs9ZliQNP3zKXPWFs+IyLlDYnLtfPYgNzndhJRmeyyfT+NM5JaxVLO+AA0LkzgSRy7v+7w==",
+  "dgSpecHash": "9Ji01MEeCGuI+VT1rrEYjEHYu5VMYgOyLGg6Z+3y6ZNz6RsKyk7+I2EUaU+cX5PgsOAhTsQAWNA1xdgpEqrrJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Новая папка\\-\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
+  "projectFilePath": "C:\\Users\\gaz53\\OneDrive\\Рабочий стол\\Рабочий проект(Осталось доделать чтобы фигуры ходили как надо)\\-\\ChessBoard\\ChessBoard\\ChessBoard.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

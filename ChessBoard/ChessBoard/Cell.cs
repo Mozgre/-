@@ -4,10 +4,29 @@ namespace ChessBoard
 {
     public class Cell : NotifyPropertyChanged
     {
+        private int _x;
+        private int _y;
+        public int X
+        {
+            get => _x;
+            set
+            {
+                _x = value;
+                OnPropertyChanged();
+            }
+        }
+
+        public int Y
+        {
+            get => _y;
+            set
+            {
+                _y = value;
+                OnPropertyChanged();
+            }
+        }
         private State _state;
         private bool _active;
-        private int _rowIndex;
-        private int _columnIndex;
         public State State
         {
             get => _state;
@@ -23,24 +42,6 @@ namespace ChessBoard
             set
             {
                 _active = value;
-                OnPropertyChanged();
-            }
-        }
-        public int RowIndex
-        {
-            get => _rowIndex;
-            set
-            {
-                _rowIndex = value;
-                OnPropertyChanged();
-            }
-        }
-        public int ColumnIndex
-        {
-            get => _columnIndex;
-            set
-            {
-                _columnIndex = value;
                 OnPropertyChanged();
             }
         }
